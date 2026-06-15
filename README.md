@@ -1,195 +1,249 @@
-# Hi 👋, I'm Bandi Bhargav Chowdary
+<div align="center">
 
-<h3 align="center">Full Stack Developer | AI/ML Researcher | Computer Vision Enthusiast</h3>
+# 🚀 Bandi Bhargav Chowdary
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=AI+Researcher;Full+Stack+Developer;Computer+Vision+Engineer;MERN+Stack+Developer;Generative+AI+Enthusiast;Open+Source+Contributor" />
+
+<img src="https://komarev.com/ghpvc/?username=bandibhargav12&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌟 About Me
+
+🎓 B.Tech CSE Student
+
+🤖 AI & Machine Learning Researcher
+
+🌐 MERN Stack Developer
+
+☁️ AWS Cloud Enthusiast
+
+📚 Data Structures & Algorithms
+
+🚀 Building AI Powered Products
+
+</div>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=600&lines=Full+Stack+Developer;AI%2FML+Researcher;Computer+Vision+Developer;MERN+Stack+Developer;Generative+AI+Enthusiast" />
+<a href="mailto:bhargavchowdary1221@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/bhargav-chowdary-830875295">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
 </p>
 
 ---
 
-## 🚀 About Me
+# ⚡ Tech Arsenal
 
-- 🎓 B.Tech CSE Student
-- 🤖 AI/ML Researcher
-- 🌐 MERN Stack Developer
-- ☁️ AWS Cloud Enthusiast
-- 📚 Data Structures & Algorithms
-- 🔥 Passionate about AI, Computer Vision and Full Stack Development
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,express,mongodb,mysql,aws,git,github,vscode,html,css"/>
 
-## 📫 Contact Me
-
-- 📧 Email: **bhargavchowdary1221@gmail.com**
-- 📱 Phone: **+91 9491669919**
-- 📍 Andhra Pradesh, India
-- 💼 LinkedIn: https://linkedin.com/in/bhargav-chowdary-830875295
+</div>
 
 ---
 
-## 🛠 Tech Stack
+# 💼 Experience
 
-### Languages
+## 🔬 ML Research Intern — UCSI University
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+✨ Evaluated 10 ML Algorithms
 
-### Frontend
+✨ Evaluated 2 DL Models
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+✨ Achieved 99.47% Accuracy
 
-### Backend
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-
-### Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-
-### Cloud & Tools
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+✨ Medical AI Research
 
 ---
 
-## 💼 Experience
+## 🚁 Computer Vision Intern — NIT Andhra Pradesh
 
-### ML Research Intern | UCSI University, Malaysia
+✨ Drone Analytics
 
-- Evaluated 10 ML Algorithms
-- Evaluated 2 Deep Learning Models
-- Worked on Diabetes Classification
-- Achieved 99.47% Accuracy using AdaBoost
-- Performed Comparative Research Analysis
+✨ Answer Script Digitization
 
-### Computer Vision Research Intern | NIT Andhra Pradesh
+✨ Real-Time Inference Systems
 
-- Automated Answer Script Digitization
-- Drone Video Analytics
-- Real-Time Inference Systems
-- Computer Vision Pipelines
-
-### Research Intern | NIT Tiruchirappalli
-
-- Structured Data Classification
-- Supervised Learning Models
-- Data Preprocessing
-- Research Publication Support
+✨ Computer Vision Pipelines
 
 ---
 
-## 🚀 Projects
+## 🧠 Research Intern — NIT Trichy
 
-### SmartSupport AI
+✨ Classification Systems
 
-AI-powered customer support triage system.
+✨ Data Preprocessing
 
-**Tech Stack**
+✨ Benchmarking Models
+
+✨ Research Publications
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+## 🤖 SmartSupport AI
+
+AI Powered Ticket Triage
 
 - Gemini API
 - Pinecone
-- Node.js
-- React
-
-**Features**
-
-- Ticket Classification
 - Sentiment Analysis
 - Smart Routing
-- Priority Prediction
 
----
+</td>
 
-### CareerCraft AI
+<td width="50%">
 
-AI-based Career Recommendation Platform.
+## 🎯 CareerCraft AI
 
-**Achievements**
+Career Recommendation Platform
 
-- 35% Better Prediction Accuracy
-- 40% Higher User Engagement
+- MERN Stack
+- AI Recommendation Engine
+- 35% Accuracy Improvement
+- 40% User Growth
 
----
+</td>
+</tr>
 
-### Janasaarthi
+<tr>
+<td width="50%">
 
-Smart Civic Assistance Platform.
+## 🏛️ Janasaarthi
 
-**Highlights**
+Smart Civic Platform
 
-- Integrated 20+ Government Services
+- 20+ Government Services
 - REST APIs
 - Scalable Architecture
-- Citizen Service Platform
+
+</td>
+
+<td width="50%">
+
+## 🔥 More Coming Soon
+
+Always Building
+
+Always Learning
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏆 Certifications
+# 🏆 Certifications
 
-- Oracle AI Professional
-- Oracle AI Foundations
-- AWS Generative AI
-- IBM Machine Learning with Python
-- Introduction to MongoDB
-- Google Analytics Certification
+🏅 Oracle AI Professional
+
+🏅 Oracle AI Foundations
+
+🏅 AWS Generative AI
+
+🏅 IBM Machine Learning with Python
+
+🏅 MongoDB Certification
+
+🏅 Google Analytics
 
 ---
 
-## 📊 GitHub Stats
+# 📈 GitHub Analytics
 
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bandibhargav12&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bandibhargav12&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bandibhargav12&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=bandibhargav12&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bandibhargav12&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+```yaml
+Create:
+.github/workflows/snake.yml
+```
+
+Then generate:
+
+```html
+dist/github-contribution-grid-snake.svg
+```
+
+and add:
+
+```html
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bandibhargav12&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bandibhargav12&layout=compact&theme=tokyonight"/>
-
+<img src="https://raw.githubusercontent.com/bandibhargav12/bandibhargav12/output/github-contribution-grid-snake.svg">
 </p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bandibhargav12&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🌱 Currently Learning
-
-- Generative AI
-- RAG Systems
-- Agentic AI
-- LangChain
-- LangGraph
-- Advanced System Design
-
----
-
-## 🎯 Goals
-
-- Publish Research Papers
-- Contribute to Open Source
-- Build Large Scale AI Systems
-- Master MLOps
-- Become AI Engineer
-
----
-
-## ⚡ Fun Fact
-
-```python
-while(True):
-    learn()
-    build()
-    improve()
 ```
 
 ---
 
-<h3 align="center">Thanks for visiting my profile ❤️</h3>
+<div align="center">
+
+## 🎯 Current Focus
+
+Generative AI • RAG • Agentic AI • LLMs • Computer Vision
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ "Turning Ideas into AI-Powered Solutions"
+
+⭐ Star repositories if you find them useful
+
+</div>
