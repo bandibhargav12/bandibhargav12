@@ -1,390 +1,224 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=4&section=header"/>
-
-<!-- HEADER CARD -->
-<table>
-<tr>
-<td align="left" width="100%">
-
-<br/>
-
-<img align="right" src="https://komarev.com/ghpvc/?username=bandibhargav12&color=7c3aed&style=flat-square&label=profile+views"/>
-
-<img src="https://img.shields.io/badge/●_Open_to_Opportunities-Andhra_Pradesh,_India-22c55e?style=flat-square&labelColor=161b22"/>
-
-### `Bandi Bhargav Chowdary`
-
-```
-AI Researcher  ·  Computer Vision Engineer  ·  Full-Stack Developer
-```
-
-<img src="https://img.shields.io/badge/📍_Location-Andhra_Pradesh,_India-30363d?style=flat-square&labelColor=161b22&color=30363d"/>
-<img src="https://img.shields.io/badge/🎓_Education-B.Tech_CSE_·_SASI_·_2023--27-30363d?style=flat-square&labelColor=161b22&color=30363d"/>
-<img src="https://img.shields.io/badge/🔬_Internships-3_Research_Positions-30363d?style=flat-square&labelColor=161b22&color=30363d"/>
-<img src="https://img.shields.io/badge/📜_Certifications-6-30363d?style=flat-square&labelColor=161b22&color=30363d"/>
-
-<br/><br/>
-
-| | | | |
-|:---:|:---:|:---:|:---:|
-| **`99.47%`** | **`25%`** | **`40%`** | **`100+`** |
-| AdaBoost ML Accuracy | Latency Reduction | Engagement Boost | Concurrent Users |
-
-<br/>
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<!-- TERMINAL BLOCK -->
-```yaml
-~/bhargav $ cat developer-snapshot.yaml
-```
-
-```yaml
-name:       Bandi Bhargav Chowdary
-location:   Andhra Pradesh, India
-education:  B.Tech CSE · SASI Institute · 2023–2027
-
-roles:
-  - Full-Stack Developer (MERN)
-  - AI / ML Researcher
-  - Computer Vision Engineer
-
-internships:
-  - ML Research Intern       @ UCSI University, Kuala Lumpur (Remote)
-  - CV Research Intern       @ NIT Andhra Pradesh
-  - Research Intern          @ NIT Tiruchirapalli
-
-best_result:  AdaBoost 99.47% — Diabetes Classification (5 datasets)
-stack:        [ React, Node, MongoDB, OpenCV, PyTorch, LangChain, Pinecone ]
-ai_focus:     [ ML, GenAI, RAG, Agentic AI, Computer Vision ]
-
-mindset: "Build useful things. Build them cleanly. Make them hard to ignore."
-```
-
----
-
-<div align="center">
-
-## ◈ Performance at a Glance
-
-<table>
-<tr>
-<td align="center"><h3>10</h3><sub>ML Algorithms<br/>Evaluated in Research</sub></td>
-<td align="center"><h3>5</h3><sub>Medical Datasets<br/>UCSI University</sub></td>
-<td align="center"><h3>3</h3><sub>Research Internships<br/>Concurrent · 2026</sub></td>
-</tr>
-<tr>
-<td align="center"><h3>4</h3><sub>Featured Projects<br/>Production-grade builds</sub></td>
-<td align="center"><h3>20+</h3><sub>Gov Services Integrated<br/>Janasaarthi Platform</sub></td>
-<td align="center"><h3>35%</h3><sub>Prediction Accuracy ↑<br/>CareerCraft AI Engine</sub></td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🔬 Research Experience
-
-<table>
-<tr>
-<td width="10px" valign="top"><img src="https://img.shields.io/badge/-●-7c3aed?style=flat-square"/></td>
-<td>
-
-**ML Research Intern** — `UCSI University, Kuala Lumpur (Remote)` &nbsp; ![](https://img.shields.io/badge/Jan_2026–Apr_2026-161b22?style=flat-square&labelColor=21262d)
-
-Evaluated **10 ML algorithms** and 2 deep learning models for diabetes classification across **5 medical datasets**. Achieved best-in-class **AdaBoost 99.47% accuracy**. Conducted full model evaluation, benchmarking, and research documentation.
-
-`AdaBoost 99.47%` &nbsp; `10 algorithms` &nbsp; `Diabetes classification` &nbsp; `5 datasets`
-
-</td>
-</tr>
-<tr>
-<td valign="top"><img src="https://img.shields.io/badge/-●-7c3aed?style=flat-square"/></td>
-<td>
-
-**Computer Vision Research Intern** — `NIT Andhra Pradesh` &nbsp; ![](https://img.shields.io/badge/May_2026–Jul_2026-161b22?style=flat-square&labelColor=21262d)
-
-Built AI-powered automated answer script digitization and drone video analytics systems. Designed manufacturing defect detection pipelines with **real-time inference** capabilities.
-
-`Handwriting OCR` &nbsp; `Drone analytics` &nbsp; `Real-time inference` &nbsp; `OpenCV`
-
-</td>
-</tr>
-<tr>
-<td valign="top"><img src="https://img.shields.io/badge/-●-7c3aed?style=flat-square"/></td>
-<td>
-
-**Research Intern** — `NIT Tiruchirapalli, Dept. of Computer Applications` &nbsp; ![](https://img.shields.io/badge/May_2026–Jul_2026-161b22?style=flat-square&labelColor=21262d)
-
-Applied ML techniques for structured data classification. Conducted benchmarking of prominent learning models for research publication. Full data preprocessing, model training, evaluation, and analysis.
-
-`Supervised learning` &nbsp; `Benchmarking` &nbsp; `Publication research` &nbsp; `Pandas`
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠 Technical Skills Proficiency
-
-```
-React.js / MERN Stack    ████████████████████ 90%
-Python                   ███████████████████░ 88%
-Machine Learning         ██████████████████░░ 85%
-Node.js / Express.js     ██████████████████░░ 85%
-MongoDB / SQL            █████████████████░░░ 82%
-Computer Vision          █████████████████░░░ 80%
-DSA / System Design      █████████████████░░░ 80%
-GenAI / RAG / Agentic    ████████████████░░░░ 78%
-AWS / Cloud              ███████████████░░░░░ 72%
-```
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 SmartSupport AI
-**Customer Support Triage System**
-
-AI-powered ticket triage using **Gemini API + Pinecone**. Automated urgency/sentiment classification with priority routing.
-
-![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-7c3aed?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP-06b6d4?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎓 CareerCraft AI
-**Career Recommendation Platform**
-
-MERN platform — **35% better prediction accuracy**, **40% higher engagement** via AI-driven personalization.
-
-![MERN](https://img.shields.io/badge/MERN-22c55e?style=flat-square)
-![+35% acc](https://img.shields.io/badge/+35%25_accuracy-22c55e?style=flat-square)
-![+40% eng](https://img.shields.io/badge/+40%25_engagement-22c55e?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏛 Janasaarthi Civic Platform
-**Smart Citizen Assistance**
-
-Unified platform integrating **20+ government services** via scalable REST APIs. Enhanced access for **100+ users**.
-
-![20+ services](https://img.shields.io/badge/20%2B_services-f97316?style=flat-square)
-![REST APIs](https://img.shields.io/badge/REST_APIs-f97316?style=flat-square)
-![100+ users](https://img.shields.io/badge/100%2B_users-f97316?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔍 AI / CV Research Systems
-**Vision Pipelines · NIT Research**
-
-Answer script digitization + drone analytics. Real-time inference pipelines for NIT research programs.
-
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Drone](https://img.shields.io/badge/Drone_Analytics-06b6d4?style=flat-square)
-![Real-time](https://img.shields.io/badge/Real--time-7c3aed?style=flat-square)
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 ML Benchmark — Diabetes Classification Accuracy
-
-```
-  100% ┤
-   98% ┤  ██
-   96% ┤  ██  ██
-   94% ┤  ██  ██  ██
-   92% ┤  ██  ██  ██  ██
-   90% ┤  ██  ██  ██  ██  ██
-   88% ┤  ██  ██  ██  ██  ██  ██
-       └──────────────────────────
-         Ada   RF  SVM  KNN  DT  LR
-        Boost
-```
-
-| Rank | Model | Accuracy | Notes |
-|:---:|-------|:---:|---|
-| 🥇 | **AdaBoost** | **99.47%** | Best performer across all 5 datasets |
-| 🥈 | Random Forest | 97.2% | Strong ensemble baseline |
-| 🥉 | SVM | ~95% | — |
-| 4 | KNN | ~94% | — |
-| 5 | Decision Tree | ~91% | — |
-| 6 | Logistic Regression | ~88.9% | — |
-
-> Benchmarked across **5 medical datasets** · UCSI University ML Research Internship
-
----
-
-## ⚡ Tech Arsenal
-
-<div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-**ML / Computer Vision**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-**Generative AI Stack**
-
-![RAG](https://img.shields.io/badge/RAG_Systems-7C3AED?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-6D28D9?style=for-the-badge)
-
-</div>
-
----
-
-## 📈 GitHub Statistics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=bandibhargav12&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=a78bfa&text_color=8b949e&ring_color=7c3aed"/>
-&nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bandibhargav12&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=8b949e"/>
-
-<img src="https://streak-stats.demolab.com/?user=bandibhargav12&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=7c3aed&ring=a78bfa&fire=a78bfa&currStreakLabel=8b949e&sideLabels=8b949e&dates=6e7681"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bandibhargav12&bg_color=0d1117&color=7c3aed&line=a78bfa&point=c4b5fd&area_color=7c3aed&area=true&hide_border=true&custom_title=Contribution+Graph"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=bandibhargav12&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6"/>
-
-</div>
-
----
-
-## 📜 Certifications
-
-<table>
-<tr>
-<td>🟠 <b>Oracle AI Professional</b><br/><sub>Oracle</sub></td>
-<td>🔵 <b>Oracle AI Foundations</b><br/><sub>Oracle</sub></td>
-<td>🟡 <b>AWS Generative AI</b><br/><sub>Amazon Web Services</sub></td>
-</tr>
-<tr>
-<td>🔴 <b>IBM ML with Python</b><br/><sub>IBM</sub></td>
-<td>🟢 <b>Introduction to MongoDB</b><br/><sub>MongoDB University</sub></td>
-<td>🔵 <b>Google Analytics</b><br/><sub>Google</sub></td>
-</tr>
-</table>
-
----
-
-## 💡 Engineering Philosophy
-
-```javascript
-// core mindset
-const bhargav = {
-  build:   "useful things",
-  quality: "build them cleanly",
-  speed:   "build them fast",
-  impact:  "make them hard to ignore"
-};
-
-// engineering principles
-const principles = [
-  "Code is not enough. Product sense matters.",
-  "Reliability matters. The result has to work in production.",
-  "Measure everything. Data drives decisions."
-];
-
-// goals
-const goals = ["Publish research", "Build AI products", "Open source", "Scale"];
-```
-
----
-
-## 🔁 Engineering Workflow
-
-```
-  ┌─────────┐     ┌─────────┐     ┌─────────┐     ┌─────────┐     ┌─────────┐
-  │    1    │────▶│    2    │────▶│    3    │────▶│    4    │────▶│    5    │
-  │ Identify│     │  Design │     │  Build  │     │  Refine │     │ Measure │
-  │ Problem │     │  Arch.  │     │  Fast   │     │Optimize │     │  Data   │
-  └─────────┘     └─────────┘     └─────────┘     └─────────┘     └─────────┘
-```
-
----
-
-## 📬 Get in Touch
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/📧_Email-bhargavchowdary1221@gmail.com-EA4335?style=for-the-badge&labelColor=161b22)](mailto:bhargavchowdary1221@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-bhargav--chowdary--830875295-0A66C2?style=for-the-badge&labelColor=161b22)](https://linkedin.com/in/bhargav-chowdary-830875295)
-
-[![GitHub](https://img.shields.io/badge/🐙_GitHub-bandibhargav12-7c3aed?style=for-the-badge&labelColor=161b22)](https://github.com/bandibhargav12)
-
-[![Phone](https://img.shields.io/badge/📱_WhatsApp-+91_9491669919-25D366?style=for-the-badge&labelColor=161b22)](tel:+919491669919)
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1c1040,100:0d1117&height=100&section=footer&text=Build+useful+things.+Make+them+hard+to+ignore.&fontSize=14&fontColor=7c3aed&fontAlignY=65&animation=fadeIn"/>
+<!-- BACKGROUND & WRAPPER STYLING TO MATCH IMAGE_AEA06A.JPG -->
+<div style="background-color: #030712; color: #94a3b8; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; padding: 30px; border-radius: 16px; border: 1px solid #1e293b; max-width: 900px; margin: 0 auto;">
+
+  <!-- HEADER SECTION -->
+  <table width="100%" border="0" cellpadding="0" cellspacing="0" style="margin-bottom: 25px;">
+    <tr>
+      <td width="70%" valign="top">
+        <div style="display: flex; align-items: center; gap: 15px;">
+          <div style="background: linear-gradient(135deg, #3b82f6, #06b6d4); color: #ffffff; width: 60px; height: 60px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 22px; box-shadow: 0 0 20px rgba(6, 182, 212, 0.4);">BB</div>
+          <div>
+            <h1 style="color: #ffffff; margin: 0; font-size: 32px; font-weight: 700; letter-spacing: -0.5px;">Bandi Bhargav Chowdary</h1>
+            <p style="margin: 5px 0 0 0; color: #06b6d4; font-size: 14px; font-weight: 500;">🟢 Available for opportunities • Andhra Pradesh, India</p>
+          </div>
+        </div>
+        <p style="margin-top: 15px; font-size: 16px; color: #cbd5e1; font-weight: 500;">AI Researcher • Computer Vision Engineer • Full-Stack Developer</p>
+      </td>
+      <td width="30%" valign="top" align="right">
+        <!-- TOP RIGHT MINI METRICS -->
+        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; width: 220px;">
+          <div style="background: rgba(30, 41, 59, 0.5); border: 1px solid #334155; padding: 10px; border-radius: 8px; text-align: center;">
+            <div style="color: #00E5FF; font-size: 18px; font-weight: bold;">99.47%</div>
+            <div style="font-size: 10px; color: #64748b;">AdaBoost ML Accuracy</div>
+          </div>
+          <div style="background: rgba(30, 41, 59, 0.5); border: 1px solid #334155; padding: 10px; border-radius: 8px; text-align: center;">
+            <div style="color: #a855f7; font-size: 18px; font-weight: bold;">25%</div>
+            <div style="font-size: 10px; color: #64748b;">Latency Reduction</div>
+          </div>
+          <div style="background: rgba(30, 41, 59, 0.5); border: 1px solid #334155; padding: 10px; border-radius: 8px; text-align: center;">
+            <div style="color: #10b981; font-size: 18px; font-weight: bold;">40%</div>
+            <div style="font-size: 10px; color: #64748b;">Engagement Boost</div>
+          </div>
+          <div style="background: rgba(30, 41, 59, 0.5); border: 1px solid #334155; padding: 10px; border-radius: 8px; text-align: center;">
+            <div style="color: #f59e0b; font-size: 18px; font-weight: bold;">100+</div>
+            <div style="font-size: 10px; color: #64748b;">Users Supported</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </table>
+
+  <!-- TERMINAL EMBED -->
+  <div style="background-color: #090d16; border: 1px solid #1e293b; border-radius: 12px; padding: 15px; font-family: 'Fira Code', Consolas, Monaco, monospace; margin-bottom: 30px; box-shadow: inset 0 0 20px rgba(0,0,0,0.6);">
+    <div style="display: flex; gap: 6px; margin-bottom: 12px;">
+      <span style="width: 10px; height: 10px; background-color: #ef4444; border-radius: 50%;"></span>
+      <span style="width: 10px; height: 10px; background-color: #eab308; border-radius: 50%;"></span>
+      <span style="width: 10px; height: 10px; background-color: #22c55e; border-radius: 50%;"></span>
+      <span style="color: #475569; font-size: 11px; margin-left: 10px; font-family: sans-serif;">bhargav@dev:~ | developer-snapshot.yaml</span>
+    </div>
+    <span style="color: #38bdf8;">name:</span> <span style="color: #e2e8f0;">Bandi Bhargav Chowdary</span><br>
+    <span style="color: #38bdf8;">roles:</span><br>
+    <span style="color: #64748b;">  -</span> <span style="color: #e2e8f0;">Full-Stack Developer (MERN)</span><br>
+    <span style="color: #64748b;">  -</span> <span style="color: #e2e8f0;">AI / ML Researcher</span><br>
+    <span style="color: #64748b;">  -</span> <span style="color: #e2e8f0;">Computer Vision Engineer</span><br>
+    <span style="color: #38bdf8;">education:</span> <span style="color: #e2e8f0;">B.Tech CSE • SASI Institute • 2023-2027</span><br>
+    <span style="color: #38bdf8;">internships:</span> <span style="color: #e2e8f0;">[UCSI University, NIT Andhra Pradesh, NIT Trichy]</span><br>
+    <span style="color: #38bdf8;">best_result:</span> <span style="color: #34d399;">"AdaBoost 99.47% on diabetes classification across 5 datasets"</span><br>
+    <span style="color: #38bdf8;">mindset:</span> <span style="color: #f43f5e;">"Build useful things. Build them cleanly. Make them hard to ignore."</span>
+  </div>
+
+  <!-- METRICS HERO GRID -->
+  <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; margin-bottom: 30px;">
+    <div style="background: linear-gradient(180deg, rgba(30,41,59,0.4) 0%, rgba(15,23,42,0.6) 100%); border: 1px solid #1e293b; padding: 20px; border-radius: 12px; text-align: center;">
+      <div style="font-size: 32px; font-weight: 800; color: #38bdf8; margin-bottom: 5px;">10</div>
+      <div style="font-size: 13px; font-weight: 600; color: #ffffff;">ML Algorithms</div>
+      <div style="font-size: 11px; color: #64748b; margin-top: 2px;">Evaluated across 5 datasets</div>
+    </div>
+    <div style="background: linear-gradient(180deg, rgba(30,41,59,0.4) 0%, rgba(15,23,42,0.6) 100%); border: 1px solid #1e293b; padding: 20px; border-radius: 12px; text-align: center;">
+      <div style="font-size: 32px; font-weight: 800; color: #a78bfa; margin-bottom: 5px;">2</div>
+      <div style="font-size: 13px; font-weight: 600; color: #ffffff;">Deep Learning Models</div>
+      <div style="font-size: 11px; color: #64748b; margin-top: 2px;">UCSI Research Internship</div>
+    </div>
+    <div style="background: linear-gradient(180deg, rgba(30,41,59,0.4) 0%, rgba(15,23,42,0.6) 100%); border: 1px solid #1e293b; padding: 20px; border-radius: 12px; text-align: center;">
+      <div style="font-size: 32px; font-weight: 800; color: #f43f5e; margin-bottom: 5px;">3</div>
+      <div style="font-size: 13px; font-weight: 600; color: #ffffff;">Research Internships</div>
+      <div style="font-size: 11px; color: #64748b; margin-top: 2px;">Concurrent • 2025 - 2026</div>
+    </div>
+    <div style="background: linear-gradient(180deg, rgba(30,41,59,0.4) 0%, rgba(15,23,42,0.6) 100%); border: 1px solid #1e293b; padding: 20px; border-radius: 12px; text-align: center;">
+      <div style="font-size: 32px; font-weight: 800; color: #34d399; margin-bottom: 5px;">4</div>
+      <div style="font-size: 13px; font-weight: 600; color: #ffffff;">Featured Projects</div>
+      <div style="font-size: 11px; color: #64748b; margin-top: 2px;">Production-grade builds</div>
+    </div>
+    <div style="background: linear-gradient(180deg, rgba(30,41,59,0.4) 0%, rgba(15,23,42,0.6) 100%); border: 1px solid #1e293b; padding: 20px; border-radius: 12px; text-align: center;">
+      <div style="font-size: 32px; font-weight: 800; color: #fb7185; margin-bottom: 5px;">20+</div>
+      <div style="font-size: 13px; font-weight: 600; color: #ffffff;">Gov Services Integrated</div>
+      <div style="font-size: 11px; color: #64748b; margin-top: 2px;">Janasaarthi platform</div>
+    </div>
+    <div style="background: linear-gradient(180deg, rgba(30,41,59,0.4) 0%, rgba(15,23,42,0.6) 100%); border: 1px solid #1e293b; padding: 20px; border-radius: 12px; text-align: center;">
+      <div style="font-size: 32px; font-weight: 800; color: #fbbf24; margin-bottom: 5px;">35%</div>
+      <div style="font-size: 13px; font-weight: 600; color: #ffffff;">Prediction Accuracy Δ</div>
+      <div style="font-size: 11px; color: #64748b; margin-top: 2px;">CareerCraft AI engine</div>
+    </div>
+  </div>
+
+  <!-- TWO COLUMN SPLIT: EXPERIENCE VS SKILLS -->
+  <table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <!-- LEFT COLUMN: RESEARCH & PROJECTS -->
+      <td width="52%" valign="top" style="padding-right: 20px;">
+        <h3 style="color: #ffffff; border-bottom: 1px solid #1e293b; padding-bottom: 8px; font-size: 16px; text-transform: uppercase; letter-spacing: 1px;">📋 Research Experience</h3>
+        
+        <div style="margin-bottom: 20px; margin-top: 15px;">
+          <div style="font-weight: bold; color: #ffffff; font-size: 14px;">🔹 ML Research Intern</div>
+          <div style="font-size: 11px; color: #64748b; margin: 2px 0 6px 0;">UCSI University, Kuala Lumpur | July 2025 - Apr 2026</div>
+          <p style="font-size: 12px; line-height: 1.5; margin: 0; color: #94a3b8;">Evaluated 10+ ML algorithms for diabetes classification across 5 datasets. Achieved an elite 99.47% accuracy matrix.</p>
+        </div>
+
+        <div style="margin-bottom: 20px;">
+          <div style="font-weight: bold; color: #ffffff; font-size: 14px;">🔹 Computer Vision Research Intern</div>
+          <div style="font-size: 11px; color: #64748b; margin: 2px 0 6px 0;">NIT Andhra Pradesh | May 2025 - Jun 2025</div>
+          <p style="font-size: 12px; line-height: 1.5; margin: 0; color: #94a3b8;">Built answer script digitization and drone video analytics pipelines featuring real-time inference optimization.</p>
+        </div>
+
+        <h3 style="color: #ffffff; border-bottom: 1px solid #1e293b; padding-bottom: 8px; font-size: 16px; text-transform: uppercase; letter-spacing: 1px; margin-top: 35px;">🚀 Featured Projects</h3>
+        
+        <div style="background: rgba(15, 23, 42, 0.4); border: 1px solid #1e293b; padding: 12px; border-radius: 8px; margin-top: 15px; margin-bottom: 12px;">
+          <div style="font-weight: bold; color: #ffffff; font-size: 13px;">💻 SmartSupport AI</div>
+          <p style="font-size: 12px; color: #94a3b8; margin: 4px 0;">Ticket triage system utilizing Gemini API and Pinecone vector embeddings for RAG-driven classification.</p>
+        </div>
+
+        <div style="background: rgba(15, 23, 42, 0.4); border: 1px solid #1e293b; padding: 12px; border-radius: 8px; margin-bottom: 12px;">
+          <div style="font-weight: bold; color: #ffffff; font-size: 13px;">💻 CareerCraft AI</div>
+          <p style="font-size: 12px; color: #94a3b8; margin: 4px 0;">MERN personalization platform boosting recommendation engine engagement rates by 40%.</p>
+        </div>
+
+        <div style="background: rgba(15, 23, 42, 0.4); border: 1px solid #1e293b; padding: 12px; border-radius: 8px;">
+          <div style="font-weight: bold; color: #ffffff; font-size: 13px;">💻 Janasaarthi Civic Platform</div>
+          <p style="font-size: 12px; color: #94a3b8; margin: 4px 0;">AI civic tool mapping 20+ government schemes to clean, localized interfaces for accessible citizen usage.</p>
+        </div>
+      </td>
+
+      <!-- RIGHT COLUMN: SKILLS PROGRESS & VISUALIZATIONS -->
+      <td width="48%" valign="top" style="border-left: 1px solid #1e293b; padding-left: 20px;">
+        <h3 style="color: #ffffff; border-bottom: 1px solid #1e293b; padding-bottom: 8px; font-size: 16px; text-transform: uppercase; letter-spacing: 1px;">⚡ Technical Proficiency</h3>
+        
+        <!-- CUSTOM PROGRESS BARS MATCHING IMAGE GLOW -->
+        <div style="margin-top: 15px; margin-bottom: 12px;">
+          <div style="display: flex; justify-content: space-between; font-size: 12px; color: #cbd5e1; margin-bottom: 4px;">
+            <span>React.js / MERN Stack</span><strong>90%</strong>
+          </div>
+          <div style="background: #1e293b; height: 6px; border-radius: 3px; overflow: hidden;">
+            <div style="background: linear-gradient(90deg, #3b82f6, #06b6d4); width: 90%; height: 100%;"></div>
+          </div>
+        </div>
+
+        <div style="margin-bottom: 12px;">
+          <div style="display: flex; justify-content: space-between; font-size: 12px; color: #cbd5e1; margin-bottom: 4px;">
+            <span>Python</span><strong>88%</strong>
+          </div>
+          <div style="background: #1e293b; height: 6px; border-radius: 3px; overflow: hidden;">
+            <div style="background: linear-gradient(90deg, #10b981, #34d399); width: 88%; height: 100%;"></div>
+          </div>
+        </div>
+
+        <div style="margin-bottom: 12px;">
+          <div style="display: flex; justify-content: space-between; font-size: 12px; color: #cbd5e1; margin-bottom: 4px;">
+            <span>Machine Learning / Deep Learning</span><strong>85%</strong>
+          </div>
+          <div style="background: #1e293b; height: 6px; border-radius: 3px; overflow: hidden;">
+            <div style="background: linear-gradient(90deg, #a855f7, #c084fc); width: 85%; height: 100%;"></div>
+          </div>
+        </div>
+
+        <div style="margin-bottom: 12px;">
+          <div style="display: flex; justify-content: space-between; font-size: 12px; color: #cbd5e1; margin-bottom: 4px;">
+            <span>Computer Vision (OpenCV)</span><strong>80%</strong>
+          </div>
+          <div style="background: #1e293b; height: 6px; border-radius: 3px; overflow: hidden;">
+            <div style="background: linear-gradient(90deg, #f59e0b, #fbbf24); width: 80%; height: 100%;"></div>
+          </div>
+        </div>
+
+        <div style="margin-bottom: 25px;">
+          <div style="display: flex; justify-content: space-between; font-size: 12px; color: #cbd5e1; margin-bottom: 4px;">
+            <span>GenAI / RAG / Agentic AI</span><strong>73%</strong>
+          </div>
+          <div style="background: #1e293b; height: 6px; border-radius: 3px; overflow: hidden;">
+            <div style="background: linear-gradient(90deg, #ec4899, #f472b6); width: 73%; height: 100%;"></div>
+          </div>
+        </div>
+
+        <!-- RADAR & CHARTS PLACEHOLDER USING ADVANCED GITHUB VISUALIZATION TEMPLATE -->
+        <h3 style="color: #ffffff; border-bottom: 1px solid #1e293b; padding-bottom: 8px; font-size: 14px; text-transform: uppercase; letter-spacing: 1px;">📊 Domain Radar</h3>
+        <div align="center" style="margin-top: 15px; background: rgba(15, 23, 42, 0.6); padding: 15px; border-radius: 8px; border: 1px solid #1e293b;">
+          <!-- Using dynamically updated charts matching your dark cyan styling -->
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bandibhargav12&layout=compact&theme=tokyonight&bg_color=0f172a&hide_border=true&title_color=06b6d4&icon_color=38bdf8" width="100%" alt="Domain Metrics">
+        </div>
+      </td>
+    </tr>
+  </table>
+
+  <!-- BOTTOM FULL WIDTH SECTION: CERTIFICATIONS & MINDSET -->
+  <hr style="border: 0; border-top: 1px solid #1e293b; margin: 30px 0;">
+
+  <table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td width="50%" valign="top">
+        <h3 style="color: #ffffff; font-size: 14px; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 15px;">📜 Certifications</h3>
+        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 8px; font-size: 12px; color: #cbd5e1;">
+          <div style="background: #0f172a; padding: 8px; border-radius: 6px; border: 1px solid #1e293b;">🔶 Oracle AI Professional</div>
+          <div style="background: #0f172a; padding: 8px; border-radius: 6px; border: 1px solid #1e293b;">🔶 Oracle AI Foundations</div>
+          <div style="background: #0f172a; padding: 8px; border-radius: 6px; border: 1px solid #1e293b;">🔷 AWS Generative AI</div>
+          <div style="background: #0f172a; padding: 8px; border-radius: 6px; border: 1px solid #1e293b;">🔷 IBM ML with Python</div>
+        </div>
+      </td>
+      <td width="50%" valign="top" style="padding-left: 20px;">
+        <h3 style="color: #ffffff; font-size: 14px; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 15px;">🎯 Mindset & Principle</h3>
+        <div style="background: #090d16; border-left: 3px solid #06b6d4; padding: 12px; border-radius: 0 8px 8px 0; font-size: 12px; font-style: italic; color: #e2e8f0; line-height: 1.6;">
+          "Code is not enough. Product sense matters. Reliability matters. The result has to work flawlessly in production environments."
+        </div>
+      </td>
+    </tr>
+  </table>
+
+  <!-- FOOTER CONTACT BAR -->
+  <div style="margin-top: 35px; background: linear-gradient(90deg, #0f172a 0%, #1e293b 100%); padding: 12px; border-radius: 8px; text-align: center; border: 1px solid #334155;">
+    <span style="font-size: 12px; color: #94a3b8;">
+      📬 <b>Get in Touch:</b> 
+      <a href="mailto:bhargavchowdary1221@gmail.com" style="color: #38bdf8; text-decoration: none; margin: 0 10px;">Email</a> • 
+      <a href="https://linkedin.com/in/bhargav-chowdary-830875295" style="color: #38bdf8; text-decoration: none; margin: 0 10px;">LinkedIn</a> • 
+      <a href="https://github.com/bandibhargav12" style="color: #38bdf8; text-decoration: none; margin: 0 10px;">GitHub</a>
+    </span>
+  </div>
 
 </div>
