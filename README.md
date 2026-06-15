@@ -1,466 +1,406 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=Bandi%20Bhargav%20Chowdary&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Researcher%20%7C%20Computer%20Vision%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=60&color=0:060b14,40:0f172a,100:0891b2" width="100%"/>
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Bandi%20Bhargav%20Chowdary&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AI%20Researcher%20%E2%80%A2%20Computer%20Vision%20Engineer%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=55&descSize=16&animation=fadeIn" />
+
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=false&width=700&lines=Building+useful+things.+Building+them+cleanly.;Full-Stack+MERN+%2B+AI%2FML+Engineer;Computer+Vision+%7C+GenAI+%7C+RAG+Systems;AdaBoost+99.47%25+ML+Accuracy+%F0%9F%9A%80;Open+to+Internships+%26+Collaborations" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- BADGES ROW -->
+<p>
+  <img src="https://img.shields.io/badge/Location-Andhra%20Pradesh%2C%20India-6366f1?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Education-B.Tech%20CSE%20%7C%20SASI%202023--27-8b5cf6?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-22c55e?style=for-the-badge&logo=statuspage&logoColor=white"/>
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=bandibhargav12&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS"/>
+  <a href="mailto:bhargavchowdary1221@gmail.com"><img src="https://img.shields.io/badge/Gmail-bhargavchowdary1221-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/bhargav-chowdary-830875295"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/bandibhargav12"><img src="https://img.shields.io/badge/GitHub-bandibhargav12-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 </div>
 
 ---
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Scalable+AI+Systems;ML+Research+%40+UCSI+University+%7C+NIT+AP+%7C+NIT+Trichy;Computer+Vision+Pipelines+%26+Drone+Analytics;MERN+%2B+GenAI+Applications;99.47%25+AdaBoost+Accuracy+on+Medical+Data;Open+to+Collaborations+%26+Research+Opportunities" />
-
-<br><br>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=bandibhargav12&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS)](https://github.com/bandibhargav12)
-[![GitHub Followers](https://img.shields.io/github/followers/bandibhargav12?style=for-the-badge&color=6366f1&label=FOLLOWERS)](https://github.com/bandibhargav12)
-[![Status](https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-22c55e?style=for-the-badge)](https://github.com/bandibhargav12)
-[![Location](https://img.shields.io/badge/LOCATION-ANDHRA%20PRADESH%2C%20INDIA-0891b2?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/bandibhargav12)
-
-</div>
-
----
-
-## 🧑‍💻 Developer Snapshot
+<!-- DEVELOPER SNAPSHOT -->
+```yaml
+~/bhargav $ cat developer-snapshot.yaml
+```
 
 ```yaml
-name        : Bandi Bhargav Chowdary
-location    : Andhra Pradesh, India
-education   : B.Tech CSE · SASI Institute of Technology & Engineering · 2023–2027
-roles       :
-  - Full-Stack Developer (MERN Stack)
+name: Bandi Bhargav Chowdary
+location: Andhra Pradesh, India
+roles:
+  - Full-Stack Developer (MERN)
   - AI / ML Researcher
   - Computer Vision Engineer
-  - Generative AI Explorer
-internships :
-  - ML Research Intern        @ UCSI University, Kuala Lumpur (Jan–Apr 2026)
-  - Computer Vision Intern    @ NIT Andhra Pradesh           (May–Jul 2026)
-  - Research Intern           @ NIT Tiruchirappalli          (May–Jul 2026)
-best_result : AdaBoost 99.47% accuracy on diabetes classification across 5 medical datasets
-stack       : React.js · Node.js · Express.js · MongoDB · Python · AWS · OpenCV · PyTorch
-ai_focus    : ML · DL · GenAI · RAG · Agentic AI · Computer Vision
-mindset     : "Build useful things. Build them cleanly. Make them hard to ignore."
-contact     : bhargavchowdary1221@gmail.com
+
+education: B.Tech CSE · SASI Institute · 2023–2027
+internships: UCSI University · NIT Andhra Pradesh · NIT Trichy
+
+best_result: AdaBoost 99.47% on diabetes classification (5 datasets)
+
+tech_stack:  [ML, GenAI, RAG, Agentic AI, Computer Vision]
+frameworks:  [React, Node, MongoDB, OpenCV, PyTorch]
+
+mindset: "Build useful things. Build them cleanly. Make them hard to ignore."
 ```
 
 ---
 
-## ⚡ Impact Metrics
-
 <div align="center">
 
+## 🏆 Performance Metrics
+
 <table>
-<tr>
-<td align="center" width="200">
-<h2>🎯 99.47%</h2>
-<b>AdaBoost ML Accuracy</b><br/>
-<sub>Diabetes classification · 5 datasets</sub>
-</td>
-<td align="center" width="200">
-<h2>🚀 25%</h2>
-<b>Latency Reduction</b><br/>
-<sub>Web platform optimization</sub>
-</td>
-<td align="center" width="200">
-<h2>📈 40%</h2>
-<b>Engagement Boost</b><br/>
-<sub>CareerCraft AI platform</sub>
-</td>
-<td align="center" width="200">
-<h2>👥 100+</h2>
-<b>Concurrent Users</b><br/>
-<sub>Supported across platforms</sub>
-</td>
-</tr>
-<tr>
-<td align="center">
-<h2>🔬 10</h2>
-<b>ML Algorithms</b><br/>
-<sub>Evaluated in research</sub>
-</td>
-<td align="center">
-<h2>🧠 2</h2>
-<b>Deep Learning Models</b><br/>
-<sub>Tested for classification</sub>
-</td>
-<td align="center">
-<h2>🏛️ 20+</h2>
-<b>Gov Services Integrated</b><br/>
-<sub>Janasaarthi platform</sub>
-</td>
-<td align="center">
-<h2>📊 35%</h2>
-<b>Prediction Accuracy ↑</b><br/>
-<sub>CareerCraft recommendation engine</sub>
-</td>
-</tr>
+  <tr>
+    <td align="center" width="180">
+      <img src="https://img.shields.io/badge/99.47%25-AdaBoost%20ML-7c3aed?style=for-the-badge" /><br/>
+      <sub><b>AdaBoost ML Accuracy</b></sub>
+    </td>
+    <td align="center" width="180">
+      <img src="https://img.shields.io/badge/25%25-Latency%20Reduction-6d28d9?style=for-the-badge" /><br/>
+      <sub><b>System Latency Reduced</b></sub>
+    </td>
+    <td align="center" width="180">
+      <img src="https://img.shields.io/badge/40%25-Engagement%20Boost-8b5cf6?style=for-the-badge" /><br/>
+      <sub><b>Engagement Boost (CareerCraft)</b></sub>
+    </td>
+    <td align="center" width="180">
+      <img src="https://img.shields.io/badge/100%2B-Concurrent%20Users-a855f7?style=for-the-badge" /><br/>
+      <sub><b>Users Supported</b></sub>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center" width="150">
+      <h2>10</h2>
+      <sub>ML Algorithms<br/>Evaluated in Research</sub>
+    </td>
+    <td align="center" width="150">
+      <h2>5</h2>
+      <sub>Medical Datasets<br/>(UCSI University)</sub>
+    </td>
+    <td align="center" width="150">
+      <h2>3</h2>
+      <sub>Research Internships<br/>Concurrent · 2026</sub>
+    </td>
+    <td align="center" width="150">
+      <h2>4</h2>
+      <sub>Featured Projects<br/>Production-grade</sub>
+    </td>
+    <td align="center" width="150">
+      <h2>20+</h2>
+      <sub>Gov Services Integrated<br/>Janasaarthi Platform</sub>
+    </td>
+    <td align="center" width="150">
+      <h2>35%</h2>
+      <sub>Prediction Accuracy ↑<br/>CareerCraft AI Engine</sub>
+    </td>
+  </tr>
 </table>
 
 </div>
 
 ---
 
-## 👤 About Me
+## 💼 Research & Professional Experience
 
-<table>
-<tr>
-<td width="55%" valign="top">
+<details open>
+<summary><b>🔬 ML Research Intern — UCSI University, Kuala Lumpur (Remote)</b> &nbsp;<code>Jan 2026 – Apr 2026</code></summary>
 
-I am **Bandi Bhargav Chowdary**, a research-driven developer specializing in **MERN stack** and **AI-powered applications**. I build scalable web platforms, RESTful APIs, and cloud-native systems using **React.js, Node.js, MongoDB, and AWS** — and simultaneously work on cutting-edge **Machine Learning, Deep Learning, Computer Vision, RAG, and Agentic AI** research across multiple institutions.
+> Evaluated **10 ML algorithms** and 2 deep learning models for diabetes classification across **5 medical datasets**.  
+> Additional achievement: Full dataset benchmarking with lead-class **AdaBoost 99.47% accuracy**.  
+> Conducted full model evaluation, benchmarking, and research documentation.
 
-### 🌟 What Makes Me Different
+`AdaBoost 99.47%` `10 algorithms` `Diabetes classification` `5 datasets`
 
-- Holding **3 concurrent research internships** at premier institutions (Jan–Jul 2026)
-- Achieved **99.47% ML accuracy** with AdaBoost on diabetes classification
-- Built production systems that reduced **latency by 25%** and supported **100+ concurrent users**
-- Bridges the gap between **AI research and real-world engineering**
-- Strong foundation in both **DSA / System Design** and **AI/ML research workflows**
+</details>
 
-### 🎯 Current Direction
+<details open>
+<summary><b>👁️ Computer Vision Research Intern — NIT Andhra Pradesh</b> &nbsp;<code>May 2026 – Jul 2026</code></summary>
 
-- Research-driven full-stack AI development
-- Computer vision automation pipelines
-- Real-world MERN + GenAI applications
-- Scalable backend architecture design
-- Publication-oriented ML research
+> Built AI-powered automated answer script digitization and drone video analytics systems.  
+> Designed manufacturing defect detection pipelines with **real-time inference** capabilities.
 
-</td>
-<td width="45%" valign="top">
+`Handwriting OCR` `Drone analytics` `Real-time inference` `OpenCV`
 
-### 📊 GitHub Stats
+</details>
 
-<img src="https://github-readme-stats.vercel.app/api?username=bandibhargav12&show_icons=true&hide_border=true&theme=tokyonight&title_color=38bdf8&text_color=e2e8f0&icon_color=a78bfa&bg_color=0d1424" width="100%"/>
+<details open>
+<summary><b>📊 Research Intern — NIT Tiruchirapalli, Dept. of Computer Applications</b> &nbsp;<code>May 2026 – Jul 2026</code></summary>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bandibhargav12&layout=compact&hide_border=true&theme=tokyonight&title_color=38bdf8&text_color=e2e8f0&bg_color=0d1424" width="100%"/>
+> Applied ML techniques for structured data classification. Conducted benchmarking of prominent learning models for research publication.  
+> Focused on full data preprocessing, model training, evaluation, and analysis.
 
-</td>
-</tr>
-</table>
+`Publication research` `Pandas` `Supervised learning` `Benchmarking`
+
+</details>
 
 ---
 
-## 🔬 Research Experience
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🔵 ML Research Intern
-**UCSI University**  
-Kuala Lumpur, Malaysia *(Remote)*  
-**Jan 2026 – Apr 2026**
-
----
-
-- Evaluated **10 Machine Learning algorithms** across **5 medical datasets**
-- Tested **2 Deep Learning models** for diabetes classification
-- Achieved **99.47% accuracy** with AdaBoost — best-performing model
-- Conducted model evaluation, performance comparison, and full research documentation
-- Benchmarked supervised learning approaches including Random Forest (97.2%), SVM (95.8%), KNN (93.1%), Decision Tree (91.4%), Logistic Regression (88.9%)
-
-**Tech:** Python · Scikit-Learn · NumPy · Pandas · Matplotlib
-
-</td>
-<td width="33%" valign="top">
-
-### 🟣 Computer Vision Research Intern
-**NIT Andhra Pradesh**  
-**May 2026 – Jul 2026**
-
----
-
-- Built AI-based **automated answer script digitization** system
-- Developed **handwritten script evaluation pipelines** with real-time inference
-- Built **drone video analytics** system for footage analysis and automation
-- Applied computer vision techniques for real-time object detection and scene understanding
-- Focused on practical deployment of CV models for academic and industrial use cases
-
-**Tech:** Python · OpenCV · PyTorch · TensorFlow · FFmpeg
-
-</td>
-<td width="33%" valign="top">
-
-### 🟢 Research Intern
-**NIT Tiruchirappalli**  
-Dept. of Computer Applications  
-**May 2026 – Jul 2026**
-
----
-
-- Applied **Machine Learning techniques** for structured data classification
-- Conducted benchmarking of **supervised learning models** for departmental research publication
-- Performed complete **data preprocessing**, model training, evaluation, and result analysis
-- Supported publication-oriented experimentation and academic research documentation
-- Worked on comparative analysis of classification algorithms across multiple metrics
-
-**Tech:** Python · Scikit-Learn · Pandas · Matplotlib · Jupyter
-
-</td>
-</tr>
-</table>
-
----
-
-## 🏗️ Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 SmartSupport AI — Customer Support Triage System
-
-An AI-powered ticket triage system that automatically classifies and routes support requests based on urgency and sentiment. Engineered with **Gemini API** and **Pinecone** for intelligent ticket analysis, prioritization, and efficient case management.
-
-**Key Highlights:**
-- Gemini API integration for semantic understanding
-- Pinecone-based vector search and intelligent retrieval
-- Automated urgency and sentiment classification
-- Priority-based ticket routing engine
-- Efficient case management and resolution workflow
-
-**Tech Stack:**
-`Gemini API` `Pinecone` `Node.js` `Express.js` `MongoDB` `React.js` `RAG` `NLP`
-
-</td>
-<td width="50%" valign="top">
-
-### 📈 CareerCraft — AI Career Recommendation Platform
-
-A full-stack **MERN platform** delivering personalized career insights powered by a custom recommendation engine. Engineered recommendation logic that improved prediction accuracy by **35%** and boosted user engagement by **40%** through data-driven personalization.
-
-**Key Highlights:**
-- Custom recommendation engine with 35% prediction accuracy improvement
-- 40% increase in user engagement via personalization
-- Data-driven career insights and skill gap analysis
-- Interactive dashboard with personalized career roadmaps
-- Scalable MERN architecture with REST APIs
-
-**Tech Stack:**
-`React.js` `Node.js` `Express.js` `MongoDB` `REST APIs` `Data Analytics` `AI/ML`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏛️ Janasaarthi — Smart Civic Assistance Platform
-
-A unified digital platform integrating **20+ government services** into a single centralized civic assistance workflow. Designed scalable REST APIs and optimized workflows that improved accessibility for **100+ users**.
-
-**Key Highlights:**
-- 20+ government services integrated into one platform
-- Scalable REST API architecture for seamless service delivery
-- Optimized service workflows with reduced friction
-- Improved digital accessibility for 100+ concurrent users
-- Centralized citizen support and service tracking system
-
-**Tech Stack:**
-`React.js` `Node.js` `Express.js` `MongoDB` `REST APIs` `AWS` `Docker`
-
-</td>
-<td width="50%" valign="top">
-
-### 👁️ AI / CV Research Systems — Vision Automation Pipelines
-
-Research-oriented computer vision systems for automation, classification, and visual intelligence — developed across NIT Andhra Pradesh research programs including drone footage analysis and handwritten script processing.
-
-**Key Highlights:**
-- Automated answer script digitization pipeline
-- Drone video analytics with real-time inference
-- Handwritten text recognition and evaluation engine
-- Model benchmarking across performance metrics
-- Applied research workflows for academic publication
-
-**Tech Stack:**
-`Python` `OpenCV` `PyTorch` `TensorFlow` `FFmpeg` `NumPy` `Scikit-Learn`
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Arsenal
+## 🛠️ Technical Skills Proficiency
 
 <div align="center">
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+| Skill | Level | Bar |
+|-------|-------|-----|
+| React.js / MERN Stack | 90% | `█████████░` |
+| Python | 88% | `████████░░` |
+| Machine Learning / Deep Learning | 85% | `████████░░` |
+| Node.js / Express.js | 85% | `████████░░` |
+| Computer Vision (OpenCV) | 80% | `████████░░` |
+| GenAI / RAG / Agentic AI | 78% | `███████░░░` |
+| MongoDB / SQL | 82% | `████████░░` |
+| AWS / Cloud | 72% | `███████░░░` |
+| DSA / System Design | 80% | `████████░░` |
 
-### 🎨 Frontend
+</div>
+
+---
+
+## 🧰 Tech Arsenal
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+**Frontend**
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
+**Backend & Database**
 
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=postman&logoColor=white)
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+**Cloud & DevOps**
 
-### 🧠 AI / ML / Computer Vision
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**ML / Vision**
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### 🤖 Generative AI Stack
-![Gemini](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+**Generative AI Stack**
+
+![RAG](https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-6D28D9?style=for-the-badge&logo=robot&logoColor=white)
 
 </div>
 
 ---
 
-## 🏆 Certifications
+## 🚀 Featured Projects
 
 <div align="center">
-
-| Certification | Issuer | Domain |
-|---|---|---|
-| 🟣 **Oracle AI Professional** | Oracle | Artificial Intelligence |
-| 🟣 **Oracle AI Foundations** | Oracle | AI Fundamentals |
-| 🟠 **Generative AI** | Amazon Web Services (AWS) | GenAI / Cloud |
-| 🔵 **Machine Learning with Python** | IBM | Machine Learning |
-| 🟢 **Introduction to MongoDB** | MongoDB University | Database |
-| 🔴 **Google Analytics Certification** | Google | Data Analytics |
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bandibhargav12&theme=tokyonight&hide_border=true&stroke=0891b2&ring=38bdf8&fire=a78bfa&currStreakLabel=38bdf8" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=bandibhargav12&show_icons=true&hide_border=true&theme=tokyonight&title_color=38bdf8&text_color=e2e8f0&icon_color=a78bfa&bg_color=0d1424&include_all_commits=true&count_private=true" width="49%"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bandibhargav12&bg_color=0d1424&color=38bdf8&line=a78bfa&point=38bdf8&area=true&hide_border=true&area_color=0d1424" width="100%"/>
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=bandibhargav12&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%"/>
-
-</div>
-
----
-
-## 🎓 Education
-
-<table>
-<tr>
-<td valign="top">
-
-### 🏫 Bachelor of Technology — Computer Science & Engineering
-**SASI Institute of Technology & Engineering**  
-**Aug 2023 – May 2027**
-
-**Relevant Coursework:**
-- Data Structures & Algorithms
-- Machine Learning & Deep Learning
-- Computer Vision & Image Processing
-- System Design & Architecture
-- Database Management Systems
-- Cloud Computing & DevOps
-- Full-Stack Web Development
-
-</td>
-</tr>
-</table>
-
----
-
-## 🔭 Current Focus Areas
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 Building
-- Scalable MERN + GenAI integrated applications
-- Computer vision automation pipelines for NIT research
-- ML research documentation for publication
-- Real-time AI inference systems
+### 🤖 SmartSupport AI — Customer Support Triage
+> AI-powered ticket triage system using **Gemini API + Pinecone**. Automated urgency/sentiment classification with priority routing. Streamlined case management for efficient resolution workflow.
+
+`Gemini API` `Pinecone` `RAG` `NLP`
 
 </td>
 <td width="50%" valign="top">
 
-### 📚 Learning
-- Advanced Agentic AI & multi-agent systems
-- Large-scale computer vision architectures
-- Cloud-native backend scaling patterns
-- Research paper writing & academic publication
+### 🎓 CareerCraft AI — Career Recommendation Platform
+> MERN-based recommendation platform delivering **35% better prediction accuracy** and **40% higher engagement** through AI-driven, data-driven personalization of career paths.
+
+`MERN` `+35% accuracy` `+40% engagement`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🤝 Open to Collaborate On
-- Open source AI/ML tools
-- Full-stack web development
-- Computer vision research projects
-- GenAI-powered productivity applications
+### 🏛️ Janasaarthi Civic Platform
+> Unified digital platform integrating **20+ government services** with scalable REST APIs. Enhanced digital access for **100+ users** through streamlined citizen-support systems.
+
+`20+ services` `REST APIs` `100+ users`
 
 </td>
 <td width="50%" valign="top">
 
-### 🎯 Goals
-- Publish research work from NIT internships
-- Build stronger, production-grade AI products
-- Contribute to impactful open source
-- Improve system design depth and cloud architecture
+### 🔍 AI / CV Research Systems — Vision Pipelines
+> Answer script digitization + drone video analytics pipelines. Real-time inference and model benchmarking for NIT research programs.
+
+`OpenCV` `Drone analytics` `Real-time` `Computer Vision`
 
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
-## ✍️ Engineering Mindset
-
-```
-Build useful things.      →  Practical AI that solves real problems
-Build them cleanly.       →  Maintainable, modular, scalable architecture
-Build them fast.          →  Ship working versions quickly, iterate
-Make them hard to ignore. →  Polish, performance, measurable impact
-
-Code is not enough.       →  Product sense matters
-Reliability matters.      →  The result has to work in production
-Strong execution.         →  From research to real-world deployment
-```
-
----
-
-## 🌐 Connect With Me
+## 📊 ML Benchmark — Diabetes Classification Accuracy
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-bhargavchowdary1221%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhargavchowdary1221@gmail.com)
+| Model | Accuracy | 
+|-------|----------|
+| 🥇 AdaBoost | **99.47%** |
+| 🥈 Random Forest | **97.2%** |
+| 🥉 SVM | ~95% |
+| KNN | ~94% |
+| Dec. Tree | ~93% |
+| LogReg | ~89% |
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bandi%20Bhargav%20Chowdary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhargav-chowdary-830875295)
+> Benchmarked across **5 medical datasets** at UCSI University Research Internship
 
-[![GitHub](https://img.shields.io/badge/GitHub-bandibhargav12-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bandibhargav12)
+</div>
 
-[![Phone](https://img.shields.io/badge/Phone-%2B91%209491669919-22c55e?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919491669919)
+---
+
+## 📜 Certifications
+
+<div align="center">
+
+| Certification | Provider |
+|---------------|----------|
+| 🟠 Oracle AI Professional | Oracle |
+| 🔵 Oracle AI Foundations | Oracle |
+| 🟡 AWS Generative AI | Amazon Web Services |
+| 🔴 IBM ML with Python | IBM |
+| 🟢 Introduction to MongoDB | MongoDB University |
+| 🔵 Google Analytics | Google |
+
+</div>
+
+---
+
+## 📈 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bandibhargav12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=a855f7&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bandibhargav12&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=ffffff"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bandibhargav12&theme=tokyonight&hide_border=true&background=0d1117&stroke=7c3aed&ring=a855f7&fire=a855f7&currStreakLabel=ffffff" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bandibhargav12&bg_color=0d1117&color=7c3aed&line=a855f7&point=ffffff&area=true&hide_border=true" />
+
+</div>
+
+---
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=bandibhargav12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+
+</div>
+
+---
+
+## 🌐 Domain Expertise Radar
+
+```
+                    Full-Stack
+                        ●
+                       /|\
+                      / | \
+          Cloud/AWS  /  |  \  ML Research
+                 ●--/---|---\--●
+                  \ /   |   \ /
+          GenAI/RAG ●   |   ● Python
+                  / \   |   / \
+                 /   \  |  /   \
+     Computer Vision ●--+--● MERN Stack
+```
+
+> **Strong in:** Full-Stack Development, ML Research, Computer Vision  
+> **Growing:** GenAI / RAG Pipelines, Cloud Architecture
+
+---
+
+## 💡 Engineering Philosophy
+
+```javascript
+// core mindset
+const bhargav = {
+  build: "useful things",
+  quality: "build them cleanly",
+  speed: "build them fast",
+  impact: "make them hard to ignore"
+};
+
+// engineering principles
+const principles = [
+  "Code is not enough — Product sense matters",
+  "Reliability matters. The result has to work in production.",
+  "Build to measure — data drives decisions"
+];
+
+// goals
+const goals = [
+  "Publish research",
+  "Build AI products",
+  "Open source",
+  "Scale"
+];
+```
+
+---
+
+## 📬 Get in Touch
+
+<div align="center">
+
+<a href="mailto:bhargavchowdary1221@gmail.com">
+  <img src="https://img.shields.io/badge/Email-bhargavchowdary1221%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/bhargav-chowdary-830875295">
+  <img src="https://img.shields.io/badge/LinkedIn-bhargav--chowdary--830875295-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/bandibhargav12">
+  <img src="https://img.shields.io/badge/GitHub-bandibhargav12-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="tel:+919491669919">
+  <img src="https://img.shields.io/badge/Phone-%2B91%209491669919-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
 
 </div>
 
@@ -468,8 +408,6 @@ Strong execution.         →  From research to real-world deployment
 
 <div align="center">
 
-*⭐ If you found this profile useful or inspiring, consider starring my repositories and connecting!*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:0891b2,60:0f172a,100:060b14" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Let's%20Build%20Something%20Hard%20to%20Ignore%20🚀&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
 
 </div>
