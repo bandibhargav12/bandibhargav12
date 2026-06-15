@@ -1,38 +1,50 @@
 <div align="center">
 
-# 🚀 Bandi Bhargav Chowdary
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,100:06B6D4&text=Bandi%20Bhargav%20Chowdary&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Researcher%20%7C%20Computer%20Vision%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=AI+Researcher;Full+Stack+Developer;Computer+Vision+Engineer;MERN+Stack+Developer;Generative+AI+Enthusiast;Open+Source+Contributor" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=AI+Researcher;Computer+Vision+Engineer;MERN+Stack+Developer;Generative+AI+Builder;NIT+Research+Intern;Building+Production+Ready+AI+Systems"/>
 
-<img src="https://komarev.com/ghpvc/?username=bandibhargav12&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🌟 About Me
-
-🎓 B.Tech CSE Student
-
-🤖 AI & Machine Learning Researcher
-
-🌐 MERN Stack Developer
-
-☁️ AWS Cloud Enthusiast
-
-📚 Data Structures & Algorithms
-
-🚀 Building AI Powered Products
+<p>
+  <img src="https://komarev.com/ghpvc/?username=bandibhargav12&style=for-the-badge&color=blueviolet"/>
+  <img src="https://img.shields.io/github/followers/bandibhargav12?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/bandibhargav12?style=for-the-badge"/>
+</p>
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+# 🚀 About Me
+
+```yaml
+Name: Bandi Bhargav Chowdary
+
+Education:
+  Degree: B.Tech
+  Branch: Computer Science & Engineering
+
+Focus Areas:
+  - Machine Learning
+  - Deep Learning
+  - Computer Vision
+  - Generative AI
+  - RAG Systems
+  - Agentic AI
+
+Tech Stack:
+  - MERN
+  - Python
+  - AWS
+  - MongoDB
+  - System Design
+```
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
+
 <a href="mailto:bhargavchowdary1221@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -45,68 +57,82 @@
 
 ---
 
-# ⚡ Tech Arsenal
+# 🛠️ Technology Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,express,mongodb,mysql,aws,git,github,vscode,html,css"/>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,express,mongodb,mysql,aws,docker,git,github,linux,vscode"/>
 
 </div>
 
 ---
 
-# 💼 Experience
+# 💼 Research Experience
 
-## 🔬 ML Research Intern — UCSI University
+<table>
+<tr>
+<td width="50%">
 
-✨ Evaluated 10 ML Algorithms
+## 🔬 UCSI University
 
-✨ Evaluated 2 DL Models
+### ML Research Intern
 
-✨ Achieved 99.47% Accuracy
+- Evaluated 10 ML algorithms
+- Evaluated 2 Deep Learning models
+- Worked on Diabetes Classification
+- Tested across 5 Medical Datasets
+- Achieved 99.47% Accuracy
 
-✨ Medical AI Research
+</td>
+
+<td width="50%">
+
+## 🚁 NIT Andhra Pradesh
+
+### Computer Vision Intern
+
+- Drone Video Analytics
+- Answer Script Digitization
+- Real-Time AI Inference
+- Computer Vision Research
+
+</td>
+</tr>
+
+</table>
 
 ---
 
-## 🚁 Computer Vision Intern — NIT Andhra Pradesh
+## 🧠 NIT Tiruchirappalli
 
-✨ Drone Analytics
+### Research Intern
 
-✨ Answer Script Digitization
-
-✨ Real-Time Inference Systems
-
-✨ Computer Vision Pipelines
-
----
-
-## 🧠 Research Intern — NIT Trichy
-
-✨ Classification Systems
-
-✨ Data Preprocessing
-
-✨ Benchmarking Models
-
-✨ Research Publications
+- Structured Data Classification
+- Model Benchmarking
+- Data Preprocessing
+- Research Publication Support
 
 ---
 
 # 🚀 Featured Projects
 
 <table>
+
 <tr>
+
 <td width="50%">
 
 ## 🤖 SmartSupport AI
 
-AI Powered Ticket Triage
+AI Ticket Triage System
+
+### Features
 
 - Gemini API
-- Pinecone
+- Pinecone Vector Search
 - Sentiment Analysis
-- Smart Routing
+- Intelligent Routing
+- Automated Prioritization
 
 </td>
 
@@ -116,68 +142,75 @@ AI Powered Ticket Triage
 
 Career Recommendation Platform
 
+### Highlights
+
 - MERN Stack
 - AI Recommendation Engine
-- 35% Accuracy Improvement
-- 40% User Growth
+- +35% Prediction Accuracy
+- +40% User Engagement
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
 ## 🏛️ Janasaarthi
 
-Smart Civic Platform
+Smart Civic Assistance Platform
 
-- 20+ Government Services
+### Impact
+
+- 20+ Services Integrated
 - REST APIs
 - Scalable Architecture
+- Better Accessibility
 
 </td>
 
 <td width="50%">
 
-## 🔥 More Coming Soon
+## 📄 AI Answer Evaluation
 
-Always Building
+### Features
 
-Always Learning
+- OCR
+- NLP
+- Automated Evaluation
+- Real-Time Processing
 
 </td>
+
 </tr>
+
 </table>
 
 ---
 
 # 🏆 Certifications
 
-🏅 Oracle AI Professional
-
-🏅 Oracle AI Foundations
-
-🏅 AWS Generative AI
-
-🏅 IBM Machine Learning with Python
-
-🏅 MongoDB Certification
-
-🏅 Google Analytics
+- Oracle AI Professional
+- Oracle AI Foundations
+- AWS Generative AI
+- IBM Machine Learning with Python
+- Introduction to MongoDB
+- Google Analytics Certification
 
 ---
 
-# 📈 GitHub Analytics
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bandibhargav12&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bandibhargav12&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bandibhargav12&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bandibhargav12&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
@@ -187,17 +220,17 @@ Always Learning
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 Achievement Wall
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=bandibhargav12&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=bandibhargav12&theme=tokyonight&no-frame=true&column=4&margin-w=15"/>
 
 </div>
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Graph
 
 <div align="center">
 
@@ -207,43 +240,53 @@ Always Learning
 
 ---
 
-# 🐍 Contribution Snake
+# 📚 Currently Learning
 
-```yaml
-Create:
-.github/workflows/snake.yml
+```python
+topics = [
+    "LLMs",
+    "RAG",
+    "Agentic AI",
+    "Computer Vision",
+    "MLOps",
+    "System Design",
+    "Cloud Architecture"
+]
 ```
 
-Then generate:
+---
 
-```html
-dist/github-contribution-grid-snake.svg
-```
+# 🎯 2026 Goals
 
-and add:
+- Publish Research Papers
+- Contribute to Open Source
+- Build AI SaaS Products
+- Master MLOps
+- Reach 1000+ GitHub Contributions
+- Build Production AI Systems
 
-```html
-<p align="center">
-<img src="https://raw.githubusercontent.com/bandibhargav12/bandibhargav12/output/github-contribution-grid-snake.svg">
-</p>
+---
+
+# ⚡ Philosophy
+
+```python
+while True:
+    learn()
+    build()
+    experiment()
+    improve()
 ```
 
 ---
 
 <div align="center">
 
-## 🎯 Current Focus
+## 🚀 Building AI That Solves Real Problems
 
-Generative AI • RAG • Agentic AI • LLMs • Computer Vision
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ "Turning Ideas into AI-Powered Solutions"
+### Thanks For Visiting My Profile ❤️
 
 ⭐ Star repositories if you find them useful
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:0F172A,100:06B6D4"/>
