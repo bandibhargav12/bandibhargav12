@@ -1,53 +1,69 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Bandi%20Bhargav%20Chowdary&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AI%20Researcher%20%E2%80%A2%20Computer%20Vision%20Engineer%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=55&descSize=16&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=4&section=header"/>
 
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=false&width=700&lines=Building+useful+things.+Building+them+cleanly.;Full-Stack+MERN+%2B+AI%2FML+Engineer;Computer+Vision+%7C+GenAI+%7C+RAG+Systems;AdaBoost+99.47%25+ML+Accuracy+%F0%9F%9A%80;Open+to+Internships+%26+Collaborations" alt="Typing SVG" />
-</a>
+<!-- HEADER CARD -->
+<table>
+<tr>
+<td align="left" width="100%">
 
 <br/>
 
-<!-- BADGES ROW -->
-<p>
-  <img src="https://img.shields.io/badge/Location-Andhra%20Pradesh%2C%20India-6366f1?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Education-B.Tech%20CSE%20%7C%20SASI%202023--27-8b5cf6?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-22c55e?style=for-the-badge&logo=statuspage&logoColor=white"/>
-</p>
+<img align="right" src="https://komarev.com/ghpvc/?username=bandibhargav12&color=7c3aed&style=flat-square&label=profile+views"/>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=bandibhargav12&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS"/>
-  <a href="mailto:bhargavchowdary1221@gmail.com"><img src="https://img.shields.io/badge/Gmail-bhargavchowdary1221-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/bhargav-chowdary-830875295"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/bandibhargav12"><img src="https://img.shields.io/badge/GitHub-bandibhargav12-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+<img src="https://img.shields.io/badge/●_Open_to_Opportunities-Andhra_Pradesh,_India-22c55e?style=flat-square&labelColor=161b22"/>
+
+### `Bandi Bhargav Chowdary`
+
+```
+AI Researcher  ·  Computer Vision Engineer  ·  Full-Stack Developer
+```
+
+<img src="https://img.shields.io/badge/📍_Location-Andhra_Pradesh,_India-30363d?style=flat-square&labelColor=161b22&color=30363d"/>
+<img src="https://img.shields.io/badge/🎓_Education-B.Tech_CSE_·_SASI_·_2023--27-30363d?style=flat-square&labelColor=161b22&color=30363d"/>
+<img src="https://img.shields.io/badge/🔬_Internships-3_Research_Positions-30363d?style=flat-square&labelColor=161b22&color=30363d"/>
+<img src="https://img.shields.io/badge/📜_Certifications-6-30363d?style=flat-square&labelColor=161b22&color=30363d"/>
+
+<br/><br/>
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| **`99.47%`** | **`25%`** | **`40%`** | **`100+`** |
+| AdaBoost ML Accuracy | Latency Reduction | Engagement Boost | Concurrent Users |
+
+<br/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-<!-- DEVELOPER SNAPSHOT -->
+<!-- TERMINAL BLOCK -->
 ```yaml
 ~/bhargav $ cat developer-snapshot.yaml
 ```
 
 ```yaml
-name: Bandi Bhargav Chowdary
-location: Andhra Pradesh, India
+name:       Bandi Bhargav Chowdary
+location:   Andhra Pradesh, India
+education:  B.Tech CSE · SASI Institute · 2023–2027
+
 roles:
   - Full-Stack Developer (MERN)
   - AI / ML Researcher
   - Computer Vision Engineer
 
-education: B.Tech CSE · SASI Institute · 2023–2027
-internships: UCSI University · NIT Andhra Pradesh · NIT Trichy
+internships:
+  - ML Research Intern       @ UCSI University, Kuala Lumpur (Remote)
+  - CV Research Intern       @ NIT Andhra Pradesh
+  - Research Intern          @ NIT Tiruchirapalli
 
-best_result: AdaBoost 99.47% on diabetes classification (5 datasets)
-
-tech_stack:  [ML, GenAI, RAG, Agentic AI, Computer Vision]
-frameworks:  [React, Node, MongoDB, OpenCV, PyTorch]
+best_result:  AdaBoost 99.47% — Diabetes Classification (5 datasets)
+stack:        [ React, Node, MongoDB, OpenCV, PyTorch, LangChain, Pinecone ]
+ai_focus:     [ ML, GenAI, RAG, Agentic AI, Computer Vision ]
 
 mindset: "Build useful things. Build them cleanly. Make them hard to ignore."
 ```
@@ -56,118 +72,173 @@ mindset: "Build useful things. Build them cleanly. Make them hard to ignore."
 
 <div align="center">
 
-## 🏆 Performance Metrics
+## ◈ Performance at a Glance
 
 <table>
-  <tr>
-    <td align="center" width="180">
-      <img src="https://img.shields.io/badge/99.47%25-AdaBoost%20ML-7c3aed?style=for-the-badge" /><br/>
-      <sub><b>AdaBoost ML Accuracy</b></sub>
-    </td>
-    <td align="center" width="180">
-      <img src="https://img.shields.io/badge/25%25-Latency%20Reduction-6d28d9?style=for-the-badge" /><br/>
-      <sub><b>System Latency Reduced</b></sub>
-    </td>
-    <td align="center" width="180">
-      <img src="https://img.shields.io/badge/40%25-Engagement%20Boost-8b5cf6?style=for-the-badge" /><br/>
-      <sub><b>Engagement Boost (CareerCraft)</b></sub>
-    </td>
-    <td align="center" width="180">
-      <img src="https://img.shields.io/badge/100%2B-Concurrent%20Users-a855f7?style=for-the-badge" /><br/>
-      <sub><b>Users Supported</b></sub>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td align="center" width="150">
-      <h2>10</h2>
-      <sub>ML Algorithms<br/>Evaluated in Research</sub>
-    </td>
-    <td align="center" width="150">
-      <h2>5</h2>
-      <sub>Medical Datasets<br/>(UCSI University)</sub>
-    </td>
-    <td align="center" width="150">
-      <h2>3</h2>
-      <sub>Research Internships<br/>Concurrent · 2026</sub>
-    </td>
-    <td align="center" width="150">
-      <h2>4</h2>
-      <sub>Featured Projects<br/>Production-grade</sub>
-    </td>
-    <td align="center" width="150">
-      <h2>20+</h2>
-      <sub>Gov Services Integrated<br/>Janasaarthi Platform</sub>
-    </td>
-    <td align="center" width="150">
-      <h2>35%</h2>
-      <sub>Prediction Accuracy ↑<br/>CareerCraft AI Engine</sub>
-    </td>
-  </tr>
+<tr>
+<td align="center"><h3>10</h3><sub>ML Algorithms<br/>Evaluated in Research</sub></td>
+<td align="center"><h3>5</h3><sub>Medical Datasets<br/>UCSI University</sub></td>
+<td align="center"><h3>3</h3><sub>Research Internships<br/>Concurrent · 2026</sub></td>
+</tr>
+<tr>
+<td align="center"><h3>4</h3><sub>Featured Projects<br/>Production-grade builds</sub></td>
+<td align="center"><h3>20+</h3><sub>Gov Services Integrated<br/>Janasaarthi Platform</sub></td>
+<td align="center"><h3>35%</h3><sub>Prediction Accuracy ↑<br/>CareerCraft AI Engine</sub></td>
+</tr>
 </table>
 
 </div>
 
 ---
 
-## 💼 Research & Professional Experience
+## 🔬 Research Experience
 
-<details open>
-<summary><b>🔬 ML Research Intern — UCSI University, Kuala Lumpur (Remote)</b> &nbsp;<code>Jan 2026 – Apr 2026</code></summary>
+<table>
+<tr>
+<td width="10px" valign="top"><img src="https://img.shields.io/badge/-●-7c3aed?style=flat-square"/></td>
+<td>
 
-> Evaluated **10 ML algorithms** and 2 deep learning models for diabetes classification across **5 medical datasets**.  
-> Additional achievement: Full dataset benchmarking with lead-class **AdaBoost 99.47% accuracy**.  
-> Conducted full model evaluation, benchmarking, and research documentation.
+**ML Research Intern** — `UCSI University, Kuala Lumpur (Remote)` &nbsp; ![](https://img.shields.io/badge/Jan_2026–Apr_2026-161b22?style=flat-square&labelColor=21262d)
 
-`AdaBoost 99.47%` `10 algorithms` `Diabetes classification` `5 datasets`
+Evaluated **10 ML algorithms** and 2 deep learning models for diabetes classification across **5 medical datasets**. Achieved best-in-class **AdaBoost 99.47% accuracy**. Conducted full model evaluation, benchmarking, and research documentation.
 
-</details>
+`AdaBoost 99.47%` &nbsp; `10 algorithms` &nbsp; `Diabetes classification` &nbsp; `5 datasets`
 
-<details open>
-<summary><b>👁️ Computer Vision Research Intern — NIT Andhra Pradesh</b> &nbsp;<code>May 2026 – Jul 2026</code></summary>
+</td>
+</tr>
+<tr>
+<td valign="top"><img src="https://img.shields.io/badge/-●-7c3aed?style=flat-square"/></td>
+<td>
 
-> Built AI-powered automated answer script digitization and drone video analytics systems.  
-> Designed manufacturing defect detection pipelines with **real-time inference** capabilities.
+**Computer Vision Research Intern** — `NIT Andhra Pradesh` &nbsp; ![](https://img.shields.io/badge/May_2026–Jul_2026-161b22?style=flat-square&labelColor=21262d)
 
-`Handwriting OCR` `Drone analytics` `Real-time inference` `OpenCV`
+Built AI-powered automated answer script digitization and drone video analytics systems. Designed manufacturing defect detection pipelines with **real-time inference** capabilities.
 
-</details>
+`Handwriting OCR` &nbsp; `Drone analytics` &nbsp; `Real-time inference` &nbsp; `OpenCV`
 
-<details open>
-<summary><b>📊 Research Intern — NIT Tiruchirapalli, Dept. of Computer Applications</b> &nbsp;<code>May 2026 – Jul 2026</code></summary>
+</td>
+</tr>
+<tr>
+<td valign="top"><img src="https://img.shields.io/badge/-●-7c3aed?style=flat-square"/></td>
+<td>
 
-> Applied ML techniques for structured data classification. Conducted benchmarking of prominent learning models for research publication.  
-> Focused on full data preprocessing, model training, evaluation, and analysis.
+**Research Intern** — `NIT Tiruchirapalli, Dept. of Computer Applications` &nbsp; ![](https://img.shields.io/badge/May_2026–Jul_2026-161b22?style=flat-square&labelColor=21262d)
 
-`Publication research` `Pandas` `Supervised learning` `Benchmarking`
+Applied ML techniques for structured data classification. Conducted benchmarking of prominent learning models for research publication. Full data preprocessing, model training, evaluation, and analysis.
 
-</details>
+`Supervised learning` &nbsp; `Benchmarking` &nbsp; `Publication research` &nbsp; `Pandas`
 
----
-
-## 🛠️ Technical Skills Proficiency
-
-<div align="center">
-
-| Skill | Level | Bar |
-|-------|-------|-----|
-| React.js / MERN Stack | 90% | `█████████░` |
-| Python | 88% | `████████░░` |
-| Machine Learning / Deep Learning | 85% | `████████░░` |
-| Node.js / Express.js | 85% | `████████░░` |
-| Computer Vision (OpenCV) | 80% | `████████░░` |
-| GenAI / RAG / Agentic AI | 78% | `███████░░░` |
-| MongoDB / SQL | 82% | `████████░░` |
-| AWS / Cloud | 72% | `███████░░░` |
-| DSA / System Design | 80% | `████████░░` |
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧰 Tech Arsenal
+## 🛠 Technical Skills Proficiency
+
+```
+React.js / MERN Stack    ████████████████████ 90%
+Python                   ███████████████████░ 88%
+Machine Learning         ██████████████████░░ 85%
+Node.js / Express.js     ██████████████████░░ 85%
+MongoDB / SQL            █████████████████░░░ 82%
+Computer Vision          █████████████████░░░ 80%
+DSA / System Design      █████████████████░░░ 80%
+GenAI / RAG / Agentic    ████████████████░░░░ 78%
+AWS / Cloud              ███████████████░░░░░ 72%
+```
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 SmartSupport AI
+**Customer Support Triage System**
+
+AI-powered ticket triage using **Gemini API + Pinecone**. Automated urgency/sentiment classification with priority routing.
+
+![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-7c3aed?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-06b6d4?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 CareerCraft AI
+**Career Recommendation Platform**
+
+MERN platform — **35% better prediction accuracy**, **40% higher engagement** via AI-driven personalization.
+
+![MERN](https://img.shields.io/badge/MERN-22c55e?style=flat-square)
+![+35% acc](https://img.shields.io/badge/+35%25_accuracy-22c55e?style=flat-square)
+![+40% eng](https://img.shields.io/badge/+40%25_engagement-22c55e?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏛 Janasaarthi Civic Platform
+**Smart Citizen Assistance**
+
+Unified platform integrating **20+ government services** via scalable REST APIs. Enhanced access for **100+ users**.
+
+![20+ services](https://img.shields.io/badge/20%2B_services-f97316?style=flat-square)
+![REST APIs](https://img.shields.io/badge/REST_APIs-f97316?style=flat-square)
+![100+ users](https://img.shields.io/badge/100%2B_users-f97316?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 AI / CV Research Systems
+**Vision Pipelines · NIT Research**
+
+Answer script digitization + drone analytics. Real-time inference pipelines for NIT research programs.
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Drone](https://img.shields.io/badge/Drone_Analytics-06b6d4?style=flat-square)
+![Real-time](https://img.shields.io/badge/Real--time-7c3aed?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 ML Benchmark — Diabetes Classification Accuracy
+
+```
+  100% ┤
+   98% ┤  ██
+   96% ┤  ██  ██
+   94% ┤  ██  ██  ██
+   92% ┤  ██  ██  ██  ██
+   90% ┤  ██  ██  ██  ██  ██
+   88% ┤  ██  ██  ██  ██  ██  ██
+       └──────────────────────────
+         Ada   RF  SVM  KNN  DT  LR
+        Boost
+```
+
+| Rank | Model | Accuracy | Notes |
+|:---:|-------|:---:|---|
+| 🥇 | **AdaBoost** | **99.47%** | Best performer across all 5 datasets |
+| 🥈 | Random Forest | 97.2% | Strong ensemble baseline |
+| 🥉 | SVM | ~95% | — |
+| 4 | KNN | ~94% | — |
+| 5 | Decision Tree | ~91% | — |
+| 6 | Logistic Regression | ~88.9% | — |
+
+> Benchmarked across **5 medical datasets** · UCSI University ML Research Internship
+
+---
+
+## ⚡ Tech Arsenal
 
 <div align="center">
 
@@ -175,7 +246,7 @@ mindset: "Build useful things. Build them cleanly. Make them hard to ignore."
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **Frontend**
 
@@ -188,8 +259,7 @@ mindset: "Build useful things. Build them cleanly. Make them hard to ignore."
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=postman&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Cloud & DevOps**
 
@@ -197,7 +267,7 @@ mindset: "Build useful things. Build them cleanly. Make them hard to ignore."
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**ML / Vision**
+**ML / Computer Vision**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -208,92 +278,11 @@ mindset: "Build useful things. Build them cleanly. Make them hard to ignore."
 
 **Generative AI Stack**
 
-![RAG](https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Systems-7C3AED?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-6D28D9?style=for-the-badge&logo=robot&logoColor=white)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 SmartSupport AI — Customer Support Triage
-> AI-powered ticket triage system using **Gemini API + Pinecone**. Automated urgency/sentiment classification with priority routing. Streamlined case management for efficient resolution workflow.
-
-`Gemini API` `Pinecone` `RAG` `NLP`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎓 CareerCraft AI — Career Recommendation Platform
-> MERN-based recommendation platform delivering **35% better prediction accuracy** and **40% higher engagement** through AI-driven, data-driven personalization of career paths.
-
-`MERN` `+35% accuracy` `+40% engagement`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏛️ Janasaarthi Civic Platform
-> Unified digital platform integrating **20+ government services** with scalable REST APIs. Enhanced digital access for **100+ users** through streamlined citizen-support systems.
-
-`20+ services` `REST APIs` `100+ users`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔍 AI / CV Research Systems — Vision Pipelines
-> Answer script digitization + drone video analytics pipelines. Real-time inference and model benchmarking for NIT research programs.
-
-`OpenCV` `Drone analytics` `Real-time` `Computer Vision`
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
-## 📊 ML Benchmark — Diabetes Classification Accuracy
-
-<div align="center">
-
-| Model | Accuracy | 
-|-------|----------|
-| 🥇 AdaBoost | **99.47%** |
-| 🥈 Random Forest | **97.2%** |
-| 🥉 SVM | ~95% |
-| KNN | ~94% |
-| Dec. Tree | ~93% |
-| LogReg | ~89% |
-
-> Benchmarked across **5 medical datasets** at UCSI University Research Internship
-
-</div>
-
----
-
-## 📜 Certifications
-
-<div align="center">
-
-| Certification | Provider |
-|---------------|----------|
-| 🟠 Oracle AI Professional | Oracle |
-| 🔵 Oracle AI Foundations | Oracle |
-| 🟡 AWS Generative AI | Amazon Web Services |
-| 🔴 IBM ML with Python | IBM |
-| 🟢 Introduction to MongoDB | MongoDB University |
-| 🔵 Google Analytics | Google |
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-6D28D9?style=for-the-badge)
 
 </div>
 
@@ -303,53 +292,42 @@ mindset: "Build useful things. Build them cleanly. Make them hard to ignore."
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bandibhargav12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=a855f7&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bandibhargav12&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=ffffff"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=bandibhargav12&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=a78bfa&text_color=8b949e&ring_color=7c3aed"/>
+&nbsp;
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bandibhargav12&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=8b949e"/>
 
-</div>
+<img src="https://streak-stats.demolab.com/?user=bandibhargav12&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=7c3aed&ring=a78bfa&fire=a78bfa&currStreakLabel=8b949e&sideLabels=8b949e&dates=6e7681"/>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bandibhargav12&theme=tokyonight&hide_border=true&background=0d1117&stroke=7c3aed&ring=a855f7&fire=a855f7&currStreakLabel=ffffff" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bandibhargav12&bg_color=0d1117&color=7c3aed&line=a855f7&point=ffffff&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bandibhargav12&bg_color=0d1117&color=7c3aed&line=a78bfa&point=c4b5fd&area_color=7c3aed&area=true&hide_border=true&custom_title=Contribution+Graph"/>
 
 </div>
 
 ---
 
-## 🏅 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=bandibhargav12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=bandibhargav12&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6"/>
 
 </div>
 
 ---
 
-## 🌐 Domain Expertise Radar
+## 📜 Certifications
 
-```
-                    Full-Stack
-                        ●
-                       /|\
-                      / | \
-          Cloud/AWS  /  |  \  ML Research
-                 ●--/---|---\--●
-                  \ /   |   \ /
-          GenAI/RAG ●   |   ● Python
-                  / \   |   / \
-                 /   \  |  /   \
-     Computer Vision ●--+--● MERN Stack
-```
-
-> **Strong in:** Full-Stack Development, ML Research, Computer Vision  
-> **Growing:** GenAI / RAG Pipelines, Cloud Architecture
+<table>
+<tr>
+<td>🟠 <b>Oracle AI Professional</b><br/><sub>Oracle</sub></td>
+<td>🔵 <b>Oracle AI Foundations</b><br/><sub>Oracle</sub></td>
+<td>🟡 <b>AWS Generative AI</b><br/><sub>Amazon Web Services</sub></td>
+</tr>
+<tr>
+<td>🔴 <b>IBM ML with Python</b><br/><sub>IBM</sub></td>
+<td>🟢 <b>Introduction to MongoDB</b><br/><sub>MongoDB University</sub></td>
+<td>🔵 <b>Google Analytics</b><br/><sub>Google</sub></td>
+</tr>
+</table>
 
 ---
 
@@ -358,26 +336,33 @@ mindset: "Build useful things. Build them cleanly. Make them hard to ignore."
 ```javascript
 // core mindset
 const bhargav = {
-  build: "useful things",
+  build:   "useful things",
   quality: "build them cleanly",
-  speed: "build them fast",
-  impact: "make them hard to ignore"
+  speed:   "build them fast",
+  impact:  "make them hard to ignore"
 };
 
 // engineering principles
 const principles = [
-  "Code is not enough — Product sense matters",
+  "Code is not enough. Product sense matters.",
   "Reliability matters. The result has to work in production.",
-  "Build to measure — data drives decisions"
+  "Measure everything. Data drives decisions."
 ];
 
 // goals
-const goals = [
-  "Publish research",
-  "Build AI products",
-  "Open source",
-  "Scale"
-];
+const goals = ["Publish research", "Build AI products", "Open source", "Scale"];
+```
+
+---
+
+## 🔁 Engineering Workflow
+
+```
+  ┌─────────┐     ┌─────────┐     ┌─────────┐     ┌─────────┐     ┌─────────┐
+  │    1    │────▶│    2    │────▶│    3    │────▶│    4    │────▶│    5    │
+  │ Identify│     │  Design │     │  Build  │     │  Refine │     │ Measure │
+  │ Problem │     │  Arch.  │     │  Fast   │     │Optimize │     │  Data   │
+  └─────────┘     └─────────┘     └─────────┘     └─────────┘     └─────────┘
 ```
 
 ---
@@ -386,21 +371,13 @@ const goals = [
 
 <div align="center">
 
-<a href="mailto:bhargavchowdary1221@gmail.com">
-  <img src="https://img.shields.io/badge/Email-bhargavchowdary1221%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+[![Email](https://img.shields.io/badge/📧_Email-bhargavchowdary1221@gmail.com-EA4335?style=for-the-badge&labelColor=161b22)](mailto:bhargavchowdary1221@gmail.com)
 
-<a href="https://linkedin.com/in/bhargav-chowdary-830875295">
-  <img src="https://img.shields.io/badge/LinkedIn-bhargav--chowdary--830875295-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-bhargav--chowdary--830875295-0A66C2?style=for-the-badge&labelColor=161b22)](https://linkedin.com/in/bhargav-chowdary-830875295)
 
-<a href="https://github.com/bandibhargav12">
-  <img src="https://img.shields.io/badge/GitHub-bandibhargav12-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-bandibhargav12-7c3aed?style=for-the-badge&labelColor=161b22)](https://github.com/bandibhargav12)
 
-<a href="tel:+919491669919">
-  <img src="https://img.shields.io/badge/Phone-%2B91%209491669919-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
+[![Phone](https://img.shields.io/badge/📱_WhatsApp-+91_9491669919-25D366?style=for-the-badge&labelColor=161b22)](tel:+919491669919)
 
 </div>
 
@@ -408,6 +385,6 @@ const goals = [
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Let's%20Build%20Something%20Hard%20to%20Ignore%20🚀&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1c1040,100:0d1117&height=100&section=footer&text=Build+useful+things.+Make+them+hard+to+ignore.&fontSize=14&fontColor=7c3aed&fontAlignY=65&animation=fadeIn"/>
 
 </div>
